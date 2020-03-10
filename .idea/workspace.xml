@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="memBot:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d18c7d89-f979-4be0-ba61-6db1be325292" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="1Frodo1 &lt;muhayloscherban1@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqmudYyDJtv8bujSxB30a09TM8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intelij\memBot\src\main\resources" />
+      <recent name="D:\intelij\memBot\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\intelij\memBot\target" />
+      <recent name="D:\intelij\memBot\.mvn\wrapper" />
+      <recent name="D:\intelij\memBot\.mvn" />
+      <recent name="D:\intelij\memBot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="memBot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="memBot []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.memBot []" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d18c7d89-f979-4be0-ba61-6db1be325292" name="Default Changelist" comment="" />
+      <created>1583678722785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583678722785</updated>
+    </task>
+    <task id="LOCAL-00001" summary="deploy">
+      <created>1583852642152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583852642152</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deploy">
+      <created>1583854651203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583854651203</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deploy">
+      <created>1583854672475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583854672475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deploy">
+      <created>1583854769922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583854769922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="deploy">
+      <created>1583855590978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583855590978</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deploy">
+      <created>1583855669357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583855669357</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deploy">
+      <created>1583856867498</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583856867498</updated>
+    </task>
+    <task id="LOCAL-00008" summary="deploy">
+      <created>1583857020344</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583857020344</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deploy">
+      <created>1583857286939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583857286939</updated>
+    </task>
+    <task id="LOCAL-00010" summary="deploy">
+      <created>1583857317660</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583857317660</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Project_Structure" timestamp="1583689718045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583689718045" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583689205306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583689205306" />
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583853266090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583853266090" />
+    <state x="690" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583855392983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583855392983" />
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1583857317052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583857317052" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1583854763706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583854763706" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1583684695973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583684695973" />
+    <state x="782" y="435" key="Github.CreateGistDialog" timestamp="1583682704060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="435" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583682704060" />
+    <state width="1340" height="158" key="GridCell.Tab.0.bottom" timestamp="1583859831150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583859831150" />
+    <state width="1340" height="158" key="GridCell.Tab.0.center" timestamp="1583859831150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583859831150" />
+    <state width="1340" height="158" key="GridCell.Tab.0.left" timestamp="1583859831150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583859831150" />
+    <state width="1340" height="158" key="GridCell.Tab.0.right" timestamp="1583859831150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583859831150" />
+    <state width="1340" height="320" key="GridCell.Tab.1.bottom" timestamp="1583690324678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583690324678" />
+    <state width="1340" height="320" key="GridCell.Tab.1.center" timestamp="1583690324677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="320" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583690324677" />
+    <state width="1340" height="320" key="GridCell.Tab.1.left" timestamp="1583690324677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="320" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583690324677" />
+    <state width="1340" height="320" key="GridCell.Tab.1.right" timestamp="1583690324678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="320" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583690324678" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1583855406309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583855406309" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1583852289135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583852289135" />
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583857306611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583857306611" />
+    <state x="342" y="214" key="new project wizard" timestamp="1583686815160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583686815160" />
+  </component>
+</project>
